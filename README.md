@@ -91,17 +91,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙌 Made with 💻 by \[YourName]
+## 🙌 Made with 💻 by \[Shradha Guttedar]
 
-```
-
----
-
-### Bonus Tip:
-
-Replace `[Shradha Guttedar]` with your real name or GitHub username if you're pushing this to your own repo.
-
----
-
-Bhai ye `README.md` ready hai — tu seedha `gse` project ke root mein `README.md` file bana ke paste kar de. Kuch aur chahiye toh bata dena!
-```
